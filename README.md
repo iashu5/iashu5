@@ -14,7 +14,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iashu5&label=Profile%20views&color=512BD4&style=flat-square" alt="Profile views"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2EA44F?style=flat-square" alt="Open to work"/>
   <img src="https://img.shields.io/badge/Location-Pune%2C%20India%20%C2%B7%20Open%20to%20relocation-0A66C2?style=flat-square" alt="Pune, India, open to relocation"/>
 </p>
