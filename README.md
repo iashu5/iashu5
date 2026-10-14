@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0A66C2&height=180&section=header&text=Ashutosh%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=.NET%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Ashutosh Kumar banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:512BD4,100:0ea5e9&height=200&section=header&animation=fadeIn&text=Ashutosh%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=.NET%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Ashutosh Kumar banner"/>
 
 <p align="center">
   <a href="https://github.com/iashu5">
@@ -80,7 +80,11 @@ var ashutosh = new Developer
 
 ## 💼 Experience
 
-<details open>
+<p align="center">
+  <img src="assets/experience.svg" width="100%" alt="Career timeline: Medimaze (2023) → SevenMentor (2024) → YSAAS Infotech (2024–26) → Gtech WebSolutions (2026)"/>
+</p>
+
+<details>
 <summary><b>Software Developer</b> · Gtech WebSolutions Pvt Ltd · <i>May 2026 – Sep 2026 · Kolkata</i></summary>
 <br/>
 
@@ -94,7 +98,7 @@ var ashutosh = new Developer
 
 </details>
 
-<details open>
+<details>
 <summary><b>.NET Developer</b> · YSAAS Infotech Pvt Ltd · <i>Nov 2024 – Apr 2026 · Pune</i></summary>
 <br/>
 
@@ -131,44 +135,12 @@ var ashutosh = new Developer
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 [Talent Acquisition System](https://github.com/iashu5/TalentAcquisition)
-End-to-end hiring platform: jobs, candidates, applications, interview scheduling with feedback, and offers.
-
-`ASP.NET Core 8 MVC` `ADO.NET` `SQL Server`
-
-</td>
-<td width="50%" valign="top">
-
-### 💰 [Loan Management](https://github.com/iashu5/LoanManagement)
-Loan plan master with auto-generated EMI repayment schedules (principal, interest and balance for each month).
-
-`ASP.NET Core MVC` `ADO.NET` `SQL Server`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 [Student Management — API](https://github.com/iashu5/StudentManagement.API) + [UI](https://github.com/iashu5/student-management-ui)
-Full-stack app with JWT auth, global exception middleware, Serilog logging, Swagger docs and a React dashboard.
-
-`.NET 8 Web API` `JWT` `React` `TypeScript`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔗 [GitHub Connector](https://github.com/iashu5/github-connector)
-REST API that wraps the GitHub API (repos & issues) with a typed HttpClient, a service layer and PAT auth.
-
-`ASP.NET Core 8 Web API` `HttpClient` `Swagger`
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/iashu5/TalentAcquisition"><img src="assets/project-talent.svg" width="49%" alt="Talent Acquisition System"/></a>
+  <a href="https://github.com/iashu5/LoanManagement"><img src="assets/project-loan.svg" width="49%" alt="Loan Management"/></a>
+  <a href="https://github.com/iashu5/StudentManagement.API"><img src="assets/project-student.svg" width="49%" alt="Student Management API + UI"/></a>
+  <a href="https://github.com/iashu5/github-connector"><img src="assets/project-github.svg" width="49%" alt="GitHub Connector"/></a>
+</p>
 
 ## 🎓 Education
 
@@ -188,6 +160,14 @@ REST API that wraps the GitHub API (repos & issues) with a typed HttpClient, a s
   <img src="https://streak-stats.demolab.com?user=iashu5&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak"/>
 </p>
 
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iashu5/iashu5/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/iashu5/iashu5/output/github-snake.svg" width="100%" alt="Contribution snake animation"/>
+  </picture>
+</p>
+
 ---
 
 <h3 align="center">🤝 Hiring a .NET or Full Stack developer? Let's talk!</h3>
@@ -197,4 +177,4 @@ REST API that wraps the GitHub API (repos & issues) with a typed HttpClient, a s
   <a href="https://www.linkedin.com/in/iashu5"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:512BD4&height=100&section=footer" width="100%" alt="Footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:512BD4,100:7c3aed&height=110&section=footer" width="100%" alt="Footer wave"/>
